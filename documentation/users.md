@@ -76,8 +76,8 @@ Available includes: [userSessions, roles, socialNetworks]
     <!-- include(request/header.md) -->
     + Body
     {
-            "name": necessitatibus (string),
-            "avatar": qui (string),
+            "name": esse (string),
+            "avatar": repellendus (string),
 
     }
 + Response 200 (application/json)
