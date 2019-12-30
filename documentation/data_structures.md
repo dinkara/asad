@@ -49,11 +49,11 @@
 
 ## User (object)
 
-+ email: `culpa` (string)
++ email: `sequi` (string)
 
-+ password_updated: `2019-11-29 19:15:22` (string)
++ password_updated: `2019-11-21 19:33:54` (string)
 
-+ last_login: `2019-11-27 19:15:22` (string)
++ last_login: `2019-12-15 19:33:54` (string)
 
 
 
